@@ -1,0 +1,3 @@
+node music.js
+
+pause
